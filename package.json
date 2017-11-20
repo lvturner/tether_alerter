@@ -1,0 +1,22 @@
+{
+  "name": "tether_alerter",
+  "version": "1.0.0",
+  "description": "Alerts whenever a new tether transaction appears",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tether",
+    "bitcoin",
+    "btc",
+    "usdt",
+    "trading"
+  ],
+  "author": "Lee Turner",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0",
+    "say": "^0.14.0"
+  }
+}
